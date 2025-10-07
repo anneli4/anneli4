@@ -37,38 +37,11 @@
 
 ### 📊 My GitHub Metrics
 
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical" width="500"></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical" width="380"></td>
-</tr>
-<tr>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark" width="500"></td>
-
-</tr>
-</table>
-
----
-
-<br>
-<table>
-<tr>
-<td><img src="https://komarev.com/ghpvc/?username=anneli4&color=%23ff79c6&label=Profile%20Views&style=for-the-badge" width="200"></td>
-</tr>
-</table>
-
-
-### 📊 My GitHub Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=anneli4&label=👀%20Profile%20Views&style=for-the-badge&color=%23ff79c6)
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical" width="250">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark" width="250">
+  <img src="https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical" width="305">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark" width="400">
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=anneli4&label=👀%20Profile%20Views&style=for-the-badge&color=%23ff79c6" width="200">
 </div>
 
