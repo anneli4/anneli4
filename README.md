@@ -33,8 +33,10 @@
 ---
 
 ### 📊 My GitHub Metrics
+| GitHub Stats | Top Languages | Streak | Profile Views |
+|--------------|---------------|--------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark) | ![Profile Views](https://komarev.com/ghpvc/?username=anneli4) |
 
-![Annelis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=anneli4)
