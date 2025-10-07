@@ -6,10 +6,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **[your current focus e.g. Python, React, AI]**
-- 💡 Interested in **[your interests e.g. web development, open-source, AI]**
-- 🔭 Working on **[a project name or type]**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 🌱 I’m currently learning Laravel, Javascript, Unity
+- 💡 Interested in web development
+- 🔭 Working on 2D game in Unity
+- 📫 Reach me at: anneli.peep@gmail.com
 
 ---
 
@@ -27,7 +27,16 @@
 - Git & GitHub
 - Laravel
 - Unity
+- Visual Studio
+- Visual Studio Code
 
 ---
+
+### 📊 My GitHub Metrics
+
+![Annelis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anneli4&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneli4&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anneli4&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=anneli4)
 
 
